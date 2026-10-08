@@ -1,0 +1,1 @@
+Coloque seu arquivo de currículo PDF nesta pasta e renomeie-o para curriculo.pdf.
